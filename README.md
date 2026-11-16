@@ -31,4 +31,6 @@ An automated sales data processing and reporting workflow developed as part of t
 Completed as an n8n Academy educational project.
 
 ## Author
-Eskandar Balakhanlu
+## Workflow Screenshot
+
+![Sales Data Pipeline Automation](sales-data-pipeline.png)
